@@ -1,0 +1,17 @@
+Vivado Simulator 2019.1
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: /home/developer/Vivado/2019.1/bin/unwrapped/lnx64.o/xelab -wto 6a1bb2eb2b934d02bd3419952288b995 --incr --debug typical --relax --mt 8 -L xil_defaultlib -L secureip --snapshot T_AXI4_MASTER_behav xil_defaultlib.T_AXI4_MASTER -log elaborate.log 
+Using 8 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling architecture rtl of entity xil_defaultlib.AXI4_SLAVE [axi4_slave_default]
+Compiling architecture rtl of entity xil_defaultlib.AXI4_MASTER [axi4_master_default]
+Compiling architecture test of entity xil_defaultlib.t_axi4_master
+Built simulation snapshot T_AXI4_MASTER_behav

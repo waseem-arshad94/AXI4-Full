@@ -1,0 +1,16 @@
+Vivado Simulator 2019.1
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: /home/developer/Vivado/2019.1/bin/unwrapped/lnx64.o/xelab -wto ece58f57cb034cf7b90ec8eea9aab12e --incr --debug typical --relax --mt 8 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot t_axi4_master_behav xil_defaultlib.t_axi4_master xil_defaultlib.glbl -log elaborate.log 
+Using 8 slave threads.
+Starting static elaboration
+WARNING: [VRFC 10-3091] actual bit length 3 differs from formal bit length 1 for port 'm_axi_bid' [/home/developer/Documents/DSP/AXI4 Implementation in FPGAs/AXI4-Full/AXI4_Master/Verilog/t_axi4_master.v:129]
+WARNING: [VRFC 10-3091] actual bit length 2 differs from formal bit length 1 for port 'm_axi_bresp' [/home/developer/Documents/DSP/AXI4 Implementation in FPGAs/AXI4-Full/AXI4_Master/Verilog/t_axi4_master.v:132]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.axi4_slave
+Compiling module xil_defaultlib.axi4_master
+Compiling module xil_defaultlib.t_axi4_master
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot t_axi4_master_behav

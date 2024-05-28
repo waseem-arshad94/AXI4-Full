@@ -1,0 +1,12 @@
+
+{ 
+    crc :  6864836580816526637  , 
+    ccp_crc :  0  , 
+    cmdline : " -wto b5d969fc6b7547a9a4e0d87f9c57878f --incr --debug typical --relax --mt 8 -L xil_defaultlib -L smartconnect_v1_0 -L axi_protocol_checker_v2_0_5 -L unisims_ver -L unimacro_ver -L secureip -L xpm --snapshot T_AXI4_BLOCK_behav xil_defaultlib.T_AXI4_BLOCK xil_defaultlib.glbl" , 
+    buildDate : "May 24 2019" , 
+    buildTime : "14:51:52" , 
+    linkCmd : "/usr/bin/gcc -Wa,-W  -O -fPIC  -m64  -Wl,--no-as-needed  -Wl,--unresolved-symbols=ignore-all  -o \"xsim.dir/T_AXI4_BLOCK_behav/xsimk\"   \"xsim.dir/T_AXI4_BLOCK_behav/obj/xsim_0.lnx64.o\" \"xsim.dir/T_AXI4_BLOCK_behav/obj/xsim_1.lnx64.o\" \"xsim.dir/T_AXI4_BLOCK_behav/obj/xsim_2.lnx64.o\" -L\"/home/developer/Vivado/2019.1/lib/lnx64.o\" -lrdi_simulator_kernel   -lrdi_simbridge_kernel" , 
+    aggregate_nets : 
+    [ 
+    ] 
+} 

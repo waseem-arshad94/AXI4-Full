@@ -1,0 +1,7 @@
+Vivado Simulator 2019.1
+Time resolution is 1 ps
+              550000 : t_axi4_block.uut.axi4_bd_i.axi_protocol_checker_0.inst.REP : BIT(          0) :   ERROR : Invalid state x
+              550000 : t_axi4_block.uut.axi4_bd_i.axi_protocol_checker_0.inst.REP : BIT(         37) :   ERROR : Invalid state x
+              550000 : t_axi4_block.uut.axi4_bd_i.axi_protocol_checker_0.inst.REP : BIT(          0) :   ERROR : Invalid state x
+              550000 : t_axi4_block.uut.axi4_bd_i.axi_protocol_checker_0.inst.REP : BIT(         37) :   ERROR : Invalid state x
+$finish called at time : 13550 ns : File "/home/developer/Documents/DSP/AXI4 Implementation in FPGAs/AXI4-Full/AXI4_Master/Verilog/t_axi4_block.v" Line 71

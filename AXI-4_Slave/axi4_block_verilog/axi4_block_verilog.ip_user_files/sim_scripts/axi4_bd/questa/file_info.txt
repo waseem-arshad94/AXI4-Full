@@ -1,0 +1,2 @@
+axi4_bd.v,verilog,xil_defaultlib,../../../bd/axi4_bd/sim/axi4_bd.v,
+glbl.v,Verilog,xil_defaultlib,glbl.v

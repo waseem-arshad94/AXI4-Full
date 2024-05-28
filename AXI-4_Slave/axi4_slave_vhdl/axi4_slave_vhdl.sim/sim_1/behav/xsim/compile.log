@@ -1,0 +1,6 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/developer/Documents/DSP/AXI4 Implementation in FPGAs/AXI4-Full/AXI4_Master/VHDL/axi4_master.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'AXI4_MASTER'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/developer/Documents/DSP/AXI4 Implementation in FPGAs/AXI4-Full/AXI-4_Slave/VHDL/axi4_slave.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'AXI4_SLAVE'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/developer/Documents/DSP/AXI4 Implementation in FPGAs/AXI4-Full/AXI4_Master/VHDL/t_axi4_master.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'T_AXI4_MASTER'

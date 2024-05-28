@@ -1,0 +1,11 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../../AXI4_Master/Verilog/axi4_master.v" \
+"../../../../../Verilog/axi4_slave.v" \
+"../../../../../../AXI4_Master/Verilog/t_axi4_master.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

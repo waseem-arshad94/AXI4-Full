@@ -1,0 +1,8 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/developer/Documents/DSP/AXI4 Implementation in FPGAs/AXI4-Full/AXI4_Master/Verilog/axi4_master.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module axi4_master
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/developer/Documents/DSP/AXI4 Implementation in FPGAs/AXI4-Full/AXI-4_Slave/Verilog/axi4_slave.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module axi4_slave
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/developer/Documents/DSP/AXI4 Implementation in FPGAs/AXI4-Full/AXI4_Master/Verilog/t_axi4_master.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module t_axi4_master
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/developer/Documents/DSP/AXI4 Implementation in FPGAs/AXI4-Full/AXI4_Master/axi4_master_verilog/axi4_master_verilog.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

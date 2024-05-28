@@ -1,0 +1,8 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../../../AXI4_Master/VHDL/axi4_master.vhd" \
+"../../../../../VHDL/axi4_slave.vhd" \
+"../../../../../../AXI4_Master/VHDL/t_axi4_master.vhd" \
+
+# Do not sort compile order
+nosort
